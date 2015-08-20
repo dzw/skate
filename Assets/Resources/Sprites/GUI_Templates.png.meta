@@ -1,0 +1,1026 @@
+fileFormatVersion: 2
+guid: ccda30abb79d0416294eba08eb98b9ad
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GUI_Templates_0
+    21300002: GUI_Templates_1
+    21300004: GUI_Templates_2
+    21300006: GUI_Templates_3
+    21300008: GUI_Templates_4
+    21300010: GUI_Templates_5
+    21300012: GUI_Templates_6
+    21300014: GUI_Templates_7
+    21300016: GUI_Templates_8
+    21300018: GUI_Templates_9
+    21300020: GUI_Templates_10
+    21300022: GUI_Templates_11
+    21300024: GUI_Templates_12
+    21300026: GUI_Templates_13
+    21300028: GUI_Templates_14
+    21300030: GUI_Templates_15
+    21300032: GUI_Templates_16
+    21300034: GUI_Templates_17
+    21300036: GUI_Templates_18
+    21300038: GUI_Templates_19
+    21300040: GUI_Templates_20
+    21300042: GUI_Templates_21
+    21300044: GUI_Templates_22
+    21300046: GUI_Templates_23
+    21300048: GUI_Templates_24
+    21300050: GUI_Templates_25
+    21300052: GUI_Templates_26
+    21300054: GUI_Templates_27
+    21300056: GUI_Templates_28
+    21300058: GUI_Templates_29
+    21300060: GUI_Templates_30
+    21300062: GUI_Templates_31
+    21300064: GUI_Templates_32
+    21300066: GUI_Templates_33
+    21300068: GUI_Templates_34
+    21300070: GUI_Templates_35
+    21300072: GUI_Templates_36
+    21300074: GUI_Templates_37
+    21300076: GUI_Templates_38
+    21300078: GUI_Templates_39
+    21300080: GUI_Templates_40
+    21300082: GUI_Templates_41
+    21300084: GUI_Templates_42
+    21300086: GUI_Templates_43
+    21300088: GUI_Templates_44
+    21300090: GUI_Templates_45
+    21300092: GUI_Templates_46
+    21300094: GUI_Templates_47
+    21300096: GUI_Templates_48
+    21300098: GUI_Templates_49
+    21300100: GUI_Templates_50
+    21300102: GUI_Templates_51
+    21300104: GUI_Templates_52
+    21300106: GUI_Templates_53
+    21300108: GUI_Templates_54
+    21300110: GUI_Templates_55
+    21300112: GUI_Templates_56
+    21300114: GUI_Templates_57
+    21300116: GUI_Templates_58
+    21300118: GUI_Templates_59
+    21300120: GUI_Templates_60
+    21300122: GUI_Templates_61
+    21300124: GUI_Templates_62
+    21300126: GUI_Templates_63
+    21300128: GUI_Templates_64
+    21300130: GUI_Templates_65
+    21300132: GUI_Templates_66
+    21300134: GUI_Templates_67
+    21300136: GUI_Templates_68
+    21300138: GUI_Templates_69
+    21300140: GUI_Templates_70
+    21300142: GUI_Templates_71
+    21300144: GUI_Templates_72
+    21300146: GUI_Templates_73
+    21300148: GUI_Templates_74
+    21300150: GUI_Templates_75
+    21300152: GUI_Templates_76
+    21300154: GUI_Templates_77
+    21300156: GUI_Templates_78
+    21300158: GUI_Templates_79
+    21300160: GUI_Templates_80
+    21300162: GUI_Templates_81
+    21300164: GUI_Templates_82
+    21300166: GUI_Templates_83
+    21300168: GUI_Templates_84
+    21300170: GUI_Templates_85
+    21300172: GUI_Templates_86
+    21300174: GUI_Templates_87
+    21300176: GUI_Templates_88
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: GUI_Templates_0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 756
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 756
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 756
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_3
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 756
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_4
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 773
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_5
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 773
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_6
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 773
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_7
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 772
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_8
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 771
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_9
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 774
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_10
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 774
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_11
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 774
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_12
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 773
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_13
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 772
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_14
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 756
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_15
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 756
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_16
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 756
+        width: 55
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_17
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 675
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 675
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 675
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_20
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 675
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_21
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 691
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_22
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 691
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_23
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 691
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_24
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 693
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_25
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 692
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_26
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 692
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_27
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 692
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_28
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 694
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_29
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 663
+        width: 203
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_30
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 591
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_31
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 591
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_32
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 591
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_33
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 591
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_34
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 608
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_35
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 608
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_36
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 606
+        width: 14
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_37
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 606
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_38
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 608
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_39
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 609
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_40
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 630
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_41
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 607
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_42
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 577
+        width: 203
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_43
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 606
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_44
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 513
+        width: 184
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_45
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 390
+        width: 183
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_46
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 420
+        width: 121
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_47
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 440
+        width: 82
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_48
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 440
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_49
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 440
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_50
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 440
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_51
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 447
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_52
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 440
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_53
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 363
+        width: 242
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_54
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 382
+        width: 129
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_55
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 338
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_56
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 30
+        width: 280
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_57
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 335
+        width: 87
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_58
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 335
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_59
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 339
+        width: 168
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_60
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 319
+        width: 97
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_61
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 248
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_62
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 298
+        width: 139
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_63
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 64
+        width: 193
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_64
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 264
+        width: 56
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_65
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 259
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_66
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 200
+        width: 83
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_67
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 210
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_68
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 223
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_69
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 226
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_70
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 222
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_71
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 187
+        width: 63
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_72
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 191
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_73
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 187
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_74
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 173
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_75
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 173
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_76
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 157
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_77
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 149
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_78
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 144
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_79
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 141
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_80
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 108
+        width: 57
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_81
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 108
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_82
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 83
+        width: 140
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_83
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 128
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_84
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 127
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_85
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 127
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_86
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 42
+        width: 201
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_87
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 40
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GUI_Templates_88
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 40
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

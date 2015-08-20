@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\QuizApp\QuizApp\Assets\Plugins\Android\AndroidManifest.xml">
+    <Files>
+      <File FileName="..\..\..\QuizApp\QuizApp\Assets\Plugins\GoogleMobileAds\GoogleMobileAds\GoogleAdController.cs" Line="94" Column="34" />
+      <File FileName="..\..\..\QuizApp\QuizApp\Assets\Plugins\GoogleMobileAds\GoogleMobileAds\Platforms\Android\AdListener.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\QuizApp\QuizApp\Assets\Plugins\GoogleMobileAds\GoogleMobileAds\Platforms\Android\AndroidBannerClient.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\QuizApp\QuizApp\Assets\Plugins\GoogleMobileAds\GoogleMobileAds\Platforms\Android\AndroidInterstitialClient.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\QuizApp\QuizApp\Assets\Plugins\GoogleMobileAds\GoogleMobileAds\Platforms\Android\Utils.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\QuizApp\QuizApp\Assets\Plugins\Pixelplacement\iTween\iTween.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\QuizApp\QuizApp\Assets\Plugins\Android\AndroidManifest.xml" Line="1" Column="1" />
+      <File FileName="Assets\Plugins\Android\AndroidManifest.xml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

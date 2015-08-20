@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Japan2/AppTemplate/Assets/Scripts/System/Inventory.cs">
+    <Files>
+      <File FileName="../Japan2/AppTemplate/Assets/Scripts/Models/Slot.cs" Line="53" Column="7" />
+      <File FileName="../Japan2/AppTemplate/Assets/Scripts/System/Inventory.cs" Line="21" Column="82" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

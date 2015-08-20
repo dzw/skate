@@ -1,0 +1,267 @@
+fileFormatVersion: 2
+guid: 9b70d9bf287fc4733a01d9f02cc7b0f2
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Skater Boy Sprite_0
+    21300002: Skater Boy Sprite_1
+    21300004: Skater Boy Sprite_2
+    21300006: Skater Boy Sprite_3
+    21300008: Skater Boy Sprite_4
+    21300010: Skater Boy Sprite_5
+    21300012: Skater Boy Sprite_6
+    21300014: Skater Boy Sprite_7
+    21300016: Skater Boy Sprite_8
+    21300018: Skater Boy Sprite_9
+    21300020: Skater Boy Sprite_10
+    21300022: Skater Boy Sprite_11
+    21300024: Skater Boy Sprite_12
+    21300026: Skater Boy Sprite_13
+    21300028: Skater Boy Sprite_14
+    21300030: Skater Boy Sprite_15
+    21300032: Skater Boy Sprite_16
+    21300034: Skater Boy Sprite_17
+    21300036: Skater Boy Sprite_18
+    21300038: Skater Boy Sprite_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Skater Boy Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 3296
+        width: 638
+        height: 798
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Skater Boy Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 3287
+        width: 639
+        height: 800
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Skater Boy Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 3283
+        width: 639
+        height: 800
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Skater Boy Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 3287
+        width: 639
+        height: 800
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Skater Boy Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2027
+        width: 639
+        height: 796
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Skater Boy Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 2058
+        width: 661
+        height: 822
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Skater Boy Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 2224
+        width: 673
+        height: 814
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Skater Boy Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 2469
+        width: 652
+        height: 726
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Skater Boy Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 3091
+        y: 2399
+        width: 678
+        height: 709
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Skater Boy Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 3843
+        y: 2058
+        width: 637
+        height: 831
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Skater Boy Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1031
+        width: 850
+        height: 861
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Skater Boy Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 1008
+        width: 1261
+        height: 752
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Skater Boy Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 3581
+        y: 908
+        width: 831
+        height: 507
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Skater Boy Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1008
+        width: 600
+        height: 149
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Skater Boy Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 995
+        width: 599
+        height: 149
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Skater Boy Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 2842
+        y: 991
+        width: 603
+        height: 148
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Skater Boy Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 617
+        height: 811
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Skater Boy Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 11
+        width: 606
+        height: 809
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Skater Boy Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 28
+        width: 646
+        height: 787
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Skater Boy Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 2312
+        y: 28
+        width: 662
+        height: 787
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

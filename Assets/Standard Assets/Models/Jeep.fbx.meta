@@ -1,0 +1,127 @@
+fileFormatVersion: 2
+guid: 143c273e7ac6fdf4d96682b937dc1142
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: addPlate
+    100002: bakcTyre
+    100004: body_pipes
+    100006: lights_rear
+    100008: RL_tyre
+    100010: glasses_lights_front
+    100012: lights_front_silver
+    100014: //RootNode
+    100016: glasses
+    100018: FR_tyre
+    100020: RR_tyre
+    100022: FL_tyre
+    100024: body_exterior
+    100026: body_interior
+    400000: addPlate
+    400002: bakcTyre
+    400004: body_pipes
+    400006: lights_rear
+    400008: RL_tyre
+    400010: glasses_lights_front
+    400012: lights_front_silver
+    400014: //RootNode
+    400016: glasses
+    400018: FR_tyre
+    400020: RR_tyre
+    400022: FL_tyre
+    400024: body_exterior
+    400026: body_interior
+    2300000: addPlate
+    2300002: bakcTyre
+    2300004: body_pipes
+    2300006: lights_rear
+    2300008: RL_tyre
+    2300010: glasses_lights_front
+    2300012: lights_front_silver
+    2300014: glasses
+    2300016: FR_tyre
+    2300018: RR_tyre
+    2300020: FL_tyre
+    2300022: body_exterior
+    2300024: body_interior
+    3300000: addPlate
+    3300002: bakcTyre
+    3300004: body_pipes
+    3300006: lights_rear
+    3300008: RL_tyre
+    3300010: glasses_lights_front
+    3300012: lights_front_silver
+    3300014: glasses
+    3300016: FR_tyre
+    3300018: RR_tyre
+    3300020: FL_tyre
+    3300022: body_exterior
+    3300024: body_interior
+    4300000: body_interior
+    4300002: body_exterior
+    4300004: body_pipes
+    4300006: lights_rear
+    4300008: lights_front_silver
+    4300010: addPlate
+    4300012: bakcTyre
+    4300014: glasses
+    4300016: glasses_lights_front
+    4300018: FL_tyre
+    4300020: RL_tyre
+    4300022: RR_tyre
+    4300024: FR_tyre
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .379999995
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 1
+  userData: 
